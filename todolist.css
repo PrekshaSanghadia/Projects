@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    display: flex;
+
+}
+
+button{
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.blocks{
+    background-color: rgba(255,255,255,0.6);
+    box-shadow: 5px 5px 10px black;
+    width: 500px;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
